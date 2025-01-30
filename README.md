@@ -60,20 +60,19 @@ The tools used for this analysis are Microsoft excel and Powerbi
  - Antipyretics(€1,939,000,996 in sales and 4,170,233 units), Antibiotics(€1,801,883,1433 in sales and 4,272,213 units) and Antimalarials(€1,527,788,483 in sales and 4,331,651 units)also made significant contributions in terms of both sales and quantity.
 
 * Sales performance by country, city, and customer segments (hospitals vs. pharmacies) are as follows:
-- Sales by Country:
+* Sales by Country:
 Germany dominated the market with 94% of total sales, while Poland contributed only 6%. 2018 was a standout year for Poland, where its sales share rose to 19%, compared to 81% for Germany. Despite this growth, Germany remained the leader throughout the period.
 
-- Sales by City:
-Butzbach generated the highest sales overall, with €96,374,052. Top city sales for each year:
-- 2017: Aurich (€22,867,841)
-- 2018: Ludwigshafen (€20,949,794)
-- 2019: Sumanazol (€113,954,535)
-- 2020: Baesweiler (€51,597,368)
+* Sales by City: Butzbach generated the highest sales overall, with €96,374,052. Top city sales for each year:
+ - 2017: Aurich (€22,867,841)
+ - 2018: Ludwigshafen (€20,949,794)
+ - 2019: Sumanazol (€113,954,535)
+ - 2020: Baesweiler (€51,597,368)
 
--  Sales by Channel:
+ * Sales by Channel:
 Pharmacy emerged as the top sales channel, contributing 53% of the total sales, while Hospitals accounted for the remaining 47%. Pharmacies appear to be the primary outlet for pharmaceutical sales, outpacing hospital sales across the years.
 
 * The performance of sales representatives and teams over time
-- Sales Representatives: Jimmy Grey and Abigail Thompson were the top sales representatives with €1,003,916,602 and €999,600,266 in sales, respectively.
--  Sales Teams: Delta Team made the highest sales across all teams, generating €3,721,881,779.
+ - Sales Representatives: Jimmy Grey and Abigail Thompson were the top sales representatives with €1,003,916,602 and €999,600,266 in sales, respectively.
+ - Sales Teams: Delta Team made the highest sales across all teams, generating €3,721,881,779.
 
