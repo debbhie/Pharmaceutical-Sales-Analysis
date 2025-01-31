@@ -66,25 +66,39 @@ The tools used for this analysis are Microsoft excel and Powerbi
 
 - Poland’s Growth in 2018: Poland experienced a significant spike in sales, reaching 19% of total sales, while Germany held 81%. This growth in Poland suggests that a successful campaign or external factors, such as regulatory changes or increased demand for healthcare services, may have driven the surge.
 Despite this spike, Poland’s overall contribution across the analysis period was just 6%, indicating that while there was potential for growth in Poland, it was not sustained over the following years. This points to the need for a targeted strategy to fully capitalize on Poland’s market potential.
-  
-* Sales by City: Butzbach generated the highest sales overall, with €96,374,052 over the analysis period. This city consistently outperformed others, indicating it could be a crucial market for pharmaceutical products. The significant sales volume suggests a strong customer base, high demand for pharmaceutical products, or effective distribution channels.
+
+### Top Sales by City: 
+Butzbach generated the highest sales overall, with €96,374,052 over the analysis period. This city consistently outperformed others, indicating it could be a crucial market for pharmaceutical products. The significant sales volume suggests a strong customer base, high demand for pharmaceutical products, or effective distribution channels.
  - 2017: Aurich (€22,867,841) - Aurich had the highest sales in 2017, standing out as a leading market for that year.
  - 2018: Ludwigshafen (€20,949,794) – Ludwigshafen took the lead in 2018, demonstrating strong regional demand for pharmaceutical products.
  - 2019: Sumanazol (€113,954,535) - Sumanazol had the highest sales of any city across the analysis period in 2019, which could have been driven by either a significant event, new product launches, or a surge in demand.
  - 2020: Baesweiler (€51,597,368) – Baesweiler showed strong sales performance in 2020, indicating a stable and growing market.
    
-*  Sales by city: Sczcytno recorded the lowest overall sales, with €1,697,972. This suggests either limited demand, market saturation, or ineffective marketing strategies in this city. Sczcytno's underperformance could indicate the need for further analysis or re-evaluation of the distribution and marketing efforts in that region.The cities with the least sales for each year:
+### Low Sales by city: 
+Sczcytno recorded the lowest overall sales, with €1,697,972. This suggests either limited demand, market saturation, or ineffective marketing strategies in this city. Sczcytno's underperformance could indicate the need for further analysis or re-evaluation of the distribution and marketing efforts in that region.The cities with the least sales for each year:
   - 2017: Friedrichshafen (€1,431,962) – The lowest-performing city in 2017, potentially indicating weaker distribution or market penetration in this area.
   - 2018: Gaggenau (€1,325,403) – In 2018, Gaggenau had the lowest sales, which might suggest underutilized market potential or low awareness of pharmaceutical products.
   - 2019: Bergish Gladbach (€1,178,131) – Sales in Bergish Gladbach were the lowest in 2019, showing a possible issue in market engagement or access.
   - 2020: Lohne (€1,697,972) – Lohne posted the lowest sales in 2020, indicating limited growth or market challenges in that region.
 
- * Sales by Channel:
-Pharmacy emerged as the top sales channel, contributing 53% of the total sales, while Hospitals accounted for the remaining 47%. Pharmacies appear to be the primary outlet for pharmaceutical sales, outpacing hospital sales across the years.
+### Sales by Channel:
+- Pharmacies as the Leading Channel:
+Pharmacies contributed 53% of total sales, outperforming hospitals, which contributed 47%. This suggests that pharmacies are the primary sales channel for pharmaceutical products, likely due to their accessibility, widespread presence, and the convenience they offer to consumers for purchasing medications.
+The dominance of pharmacies could be attributed to their role in distributing over-the-counter (OTC) medications, prescription drugs, and personal health products, which are essential components of pharmaceutical sales.
+
+- Hospitals' Contribution:
+Hospitals accounted for 47% of sales, which is still a significant share, indicating that a large portion of pharmaceutical sales comes from treatments administered within hospital settings, particularly for more complex or specialized medications.
+While pharmacies led in total sales, the relatively close percentage split between pharmacies and hospitals shows that both channels are crucial for the distribution of pharmaceutical products. Hospitals might primarily handle more specialized treatments, prescription-only medications, and critical care supplies, explaining their substantial share.
 
 ### The performance of sales representatives and teams over time
- - Sales Representatives: Jimmy Grey and Abigail Thompson were the top sales representatives with €1,003,916,602 and €999,600,266 in sales, respectively.
- - Sales Teams: Delta Team made the highest sales across all teams, generating €3,721,881,779, while Alfa team had the lowest sales of €2,662,909,343.
+- Top Performers:
+Jimmy Grey led the sales representatives with €1,003,916,602 in total sales. This impressive figure indicates that Jimmy consistently performed at a high level, likely playing a key role in driving revenue for the company. His success could be attributed to factors like strong client relationships, expertise in product knowledge, and effective sales strategies.
+Abigail Thompson closely followed with €999,600,266 in sales, demonstrating that she is nearly as effective as Jimmy in driving results. The narrow margin between the two suggests that both are crucial assets to the sales team.
+- Implication: The exceptional performance of Jimmy and Abigail highlights the importance of individual sales representatives in the overall success of the company. Their ability to close deals and generate high revenue shows that they are highly valuable, and their approaches could serve as a benchmark for training other sales reps.
 
+- Delta Team:
+Delta Team achieved the highest sales across all teams, generating €3,721,881,779 in total sales. This team’s success suggests that they have a strong combination of top-performing individuals, effective teamwork, and efficient sales processes. Delta's performance could also indicate superior market coverage, customer engagement, or targeted sales strategies.
+Alfa Team:
+Alfa Team recorded the lowest sales at €2,662,909,343, which, while still a substantial amount, indicates room for improvement compared to Delta. The gap between Alfa and Delta suggests that Alfa may need to refine its sales strategies, improve internal coordination, or better align with customer needs to increase their performance.
 
 
