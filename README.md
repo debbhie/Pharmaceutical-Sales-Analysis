@@ -1,4 +1,4 @@
-# Pharmaceutical-Sales-INSIGHTS
+# Pharmaceutical-Sales-Insights
 # TABLE OF CONTENT
 - [PHARMACEUTICAL SALES INSIGHT OVERVIEW](#pharmaceutical-sales-insight-overview)
 - [DATA SOURCE](#data-source)
@@ -110,6 +110,7 @@ Abigail Thompson closely followed with €999,600,266 in sales, demonstrating th
 ![pharm1](https://github.com/user-attachments/assets/c37adbda-0925-484c-85c1-a7baf2b04e8e)
 
 # MAP CHART USING POWERBI
+![pharm2](https://github.com/user-attachments/assets/2bec388e-7d36-434f-b342-bf2293a0425a)
 
 # INSIGHTS
 * The dominance of Germany in pharmaceutical sales indicates that it will likely continue to be the core market for the foreseeable future. Companies should maintain and enhance their market share by optimizing supply chains, expanding product portfolios, and continuing customer engagement efforts.
