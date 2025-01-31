@@ -96,9 +96,8 @@ Jimmy Grey led the sales representatives with €1,003,916,602 in total sales. T
 Abigail Thompson closely followed with €999,600,266 in sales, demonstrating that she is nearly as effective as Jimmy in driving results. The narrow margin between the two suggests that both are crucial assets to the sales team.
 - Implication: The exceptional performance of Jimmy and Abigail highlights the importance of individual sales representatives in the overall success of the company. Their ability to close deals and generate high revenue shows that they are highly valuable, and their approaches could serve as a benchmark for training other sales reps.
 
-- Delta Team:
-Delta Team achieved the highest sales across all teams, generating €3,721,881,779 in total sales. This team’s success suggests that they have a strong combination of top-performing individuals, effective teamwork, and efficient sales processes. Delta's performance could also indicate superior market coverage, customer engagement, or targeted sales strategies.
-Alfa Team:
-Alfa Team recorded the lowest sales at €2,662,909,343, which, while still a substantial amount, indicates room for improvement compared to Delta. The gap between Alfa and Delta suggests that Alfa may need to refine its sales strategies, improve internal coordination, or better align with customer needs to increase their performance.
+- Delta Team: Delta Team achieved the highest sales across all teams, generating €3,721,881,779 in total sales. This team’s success suggests that they have a strong combination of top-performing individuals, effective teamwork, and efficient sales processes. Delta's performance could also indicate superior market coverage, customer engagement, or targeted sales strategies.
+  
+- Alfa Team: Alfa Team recorded the lowest sales at €2,662,909,343, which, while still a substantial amount, indicates room for improvement compared to Delta. The gap between Alfa and Delta suggests that Alfa may need to refine its sales strategies, improve internal coordination, or better align with customer needs to increase their performance.
 
 
