@@ -7,7 +7,8 @@
 - [OBJECTIVES/KEY PERFORMANCE INDICATORS](#objectives-/-key-performance-indicators)
 - [DATA PROCESSING](#data-processing)
 - [DATA ANALYSIS](#data-analysis)
-- [DATA VISUALIZATION](#data-visualization)
+- [DASHBOARD](#dashboard)
+- [MAP CHART USING POWEERBI](#map-chart-using-powerbi)
 - [INSIGHTS](#insights)
 - [RECOMMENDATIONS](#recommendations)
 
@@ -46,8 +47,7 @@ The tools used for this analysis are Microsoft excel and Powerbi
 * Evaluate the performance of sales representatives and teams over time. 
 * Examine trends in pricing and their impact on sales.
 * Build a Sales Overview Dashboard summarizing key metrics (e.g., total sales, top distributors, and channels). 
-* Create a Regional Insights Dashboard showing sales distribution across locations on a map. 
-* Design a Product Analysis Dashboard highlighting the best and worst-performing products. 
+* Create a Regional Insights Dashboard showing sales distribution across locations on a map. . 
 * Based on the insights, provide actionable recommendations for improving sales strategy, optimizing inventory, and enhancing customer satisfaction.
 
 # DATA PROCESSING
@@ -99,5 +99,30 @@ Abigail Thompson closely followed with €999,600,266 in sales, demonstrating th
 - Delta Team: Delta Team achieved the highest sales across all teams, generating €3,721,881,779 in total sales. This team’s success suggests that they have a strong combination of top-performing individuals, effective teamwork, and efficient sales processes. Delta's performance could also indicate superior market coverage, customer engagement, or targeted sales strategies.
   
 - Alfa Team: Alfa Team recorded the lowest sales at €2,662,909,343, which, while still a substantial amount, indicates room for improvement compared to Delta. The gap between Alfa and Delta suggests that Alfa may need to refine its sales strategies, improve internal coordination, or better align with customer needs to increase their performance.
+
+# DASHBOARD
+
+# MAP CHART USING POWERBI
+
+# INSIGHTS
+* The dominance of Germany in pharmaceutical sales indicates that it will likely continue to be the core market for the foreseeable future. Companies should maintain and enhance their market share by optimizing supply chains, expanding product portfolios, and continuing customer engagement efforts.
+
+* The notable rise in Poland’s sales share in 2018 suggests untapped market potential. While this growth was not sustained, a renewed focus on Poland could result in further market expansion. This could involve targeted marketing, product localization, or partnership strategies to maintain and grow the customer base in Poland.
+
+* Butzbach’s High Sales: Consistently high sales suggest a strong market presence and efficient sales strategies. This city should be a focus for continued engagement, as it has shown resilience and demand over time.
+
+* Fluctuations in Top Performers: Each year sees a different city leading in sales, highlighting dynamic shifts in city-level demand. Cities like Sumanazol in 2019 and Aurich in 2017 performed exceptionally well, suggesting there may be external factors driving yearly spikes (e.g., specific product launches, regional campaigns, or events).
+
+* Cities like Friedrichshafen, Gaggenau, Bergish Gladbach, and Lohne repeatedly rank among the lowest in yearly sales. These areas may require strategic reassessment, either to identify opportunities for growth or to streamline operations where profitability remains minimal.
+
+* Pharmacies have proven to be the top-performing channel, with 53% of total sales. Businesses should prioritize optimizing their presence in pharmacies by building strong relationships with retail chains, ensuring a steady supply of in-demand products, and leveraging marketing campaigns targeted at pharmacy customers.
+
+* Although pharmacies lead, hospitals still represent a critical sales channel, contributing 47%. Pharmaceutical companies should ensure that hospitals have access to specialized drugs, build relationships with healthcare providers, and possibly explore bulk supply agreements to increase sales in this channel.
+
+* The combined sales of Jimmy Grey and Abigail Thompson amount to approximately €2 billion, underscoring their crucial role in the company’s overall success. These top performers are likely responsible for managing key accounts, closing large deals, or covering high-demand territories.
+
+* The significant difference in sales between Delta Team (€3.72 billion) and Alfa Team (€2.66 billion) suggests that there are notable performance disparities across teams. Delta’s lead indicates that they may be more effective in their sales strategies or have more experienced or higher-performing individuals.
+
+* Despite Alfa’s relatively lower sales, their contribution is still significant. However, the gap between them and Delta suggests that Alfa Team’s approach may need to be reassessed. Areas such as lead generation, customer engagement, or sales process optimization could be targeted to boost Alfa’s overall performance.
 
 
