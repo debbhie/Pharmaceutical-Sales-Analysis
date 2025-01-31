@@ -1,4 +1,4 @@
-# Pharmaceutical-Sales-Analysis
+# Pharmaceutical-Sales-INSIGHTS
 # TABLE OF CONTENT
 - [PHARMACEUTICAL SALES INSIGHT OVERVIEW](#pharmaceutical-sales-insight-overview)
 - [DATA SOURCE](#data-source)
@@ -61,18 +61,30 @@ The tools used for this analysis are Microsoft excel and Powerbi
 
  ### Sales performance by country, city, and customer segments (hospitals vs. pharmacies) are as follows:
 * Sales by Country:
-Germany dominated the market with 94% of total sales, while Poland contributed only 6%. 2018 was a standout year for Poland, where its sales share rose to 19%, compared to 81% for Germany. Despite this growth, Germany remained the leader throughout the period.
+- Germany's Dominance: With 94% of total sales, Germany clearly dominated the pharmaceutical market. This indicates a robust and well-established market presence in Germany, where most of the sales and revenue are generated.
+  Germany’s sustained lead suggests that the market has matured, with well-developed sales channels and a solid customer base. It may also reflect strong healthcare infrastructure, regulatory support, or higher demand for pharmaceutical products.
 
-* Sales by City: Butzbach generated the highest sales overall, with €96,374,052. Top city sales for each year:
- - 2017: Aurich (€22,867,841)
- - 2018: Ludwigshafen (€20,949,794)
- - 2019: Sumanazol (€113,954,535)
- - 2020: Baesweiler (€51,597,368)
+- Poland’s Growth in 2018: Poland experienced a significant spike in sales, reaching 19% of total sales, while Germany held 81%. This growth in Poland suggests that a successful campaign or external factors, such as regulatory changes or increased demand for healthcare services, may have driven the surge.
+Despite this spike, Poland’s overall contribution across the analysis period was just 6%, indicating that while there was potential for growth in Poland, it was not sustained over the following years. This points to the need for a targeted strategy to fully capitalize on Poland’s market potential.
+  
+* Sales by City: Butzbach generated the highest sales overall, with €96,374,052 over the analysis period. This city consistently outperformed others, indicating it could be a crucial market for pharmaceutical products. The significant sales volume suggests a strong customer base, high demand for pharmaceutical products, or effective distribution channels.
+ - 2017: Aurich (€22,867,841) - Aurich had the highest sales in 2017, standing out as a leading market for that year.
+ - 2018: Ludwigshafen (€20,949,794) – Ludwigshafen took the lead in 2018, demonstrating strong regional demand for pharmaceutical products.
+ - 2019: Sumanazol (€113,954,535) - Sumanazol had the highest sales of any city across the analysis period in 2019, which could have been driven by either a significant event, new product launches, or a surge in demand.
+ - 2020: Baesweiler (€51,597,368) – Baesweiler showed strong sales performance in 2020, indicating a stable and growing market.
+   
+*  Sales by city: Sczcytno recorded the lowest overall sales, with €1,697,972. This suggests either limited demand, market saturation, or ineffective marketing strategies in this city. Sczcytno's underperformance could indicate the need for further analysis or re-evaluation of the distribution and marketing efforts in that region.The cities with the least sales for each year:
+  - 2017: Friedrichshafen (€1,431,962) – The lowest-performing city in 2017, potentially indicating weaker distribution or market penetration in this area.
+  - 2018: Gaggenau (€1,325,403) – In 2018, Gaggenau had the lowest sales, which might suggest underutilized market potential or low awareness of pharmaceutical products.
+  - 2019: Bergish Gladbach (€1,178,131) – Sales in Bergish Gladbach were the lowest in 2019, showing a possible issue in market engagement or access.
+  - 2020: Lohne (€1,697,972) – Lohne posted the lowest sales in 2020, indicating limited growth or market challenges in that region.
 
  * Sales by Channel:
 Pharmacy emerged as the top sales channel, contributing 53% of the total sales, while Hospitals accounted for the remaining 47%. Pharmacies appear to be the primary outlet for pharmaceutical sales, outpacing hospital sales across the years.
 
 ### The performance of sales representatives and teams over time
  - Sales Representatives: Jimmy Grey and Abigail Thompson were the top sales representatives with €1,003,916,602 and €999,600,266 in sales, respectively.
- - Sales Teams: Delta Team made the highest sales across all teams, generating €3,721,881,779.
+ - Sales Teams: Delta Team made the highest sales across all teams, generating €3,721,881,779, while Alfa team had the lowest sales of €2,662,909,343.
+
+
 
