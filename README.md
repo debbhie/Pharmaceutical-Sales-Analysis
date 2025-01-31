@@ -21,20 +21,20 @@ The data was gotten from a project in a pharmacy.
 # LANDING PAGE
 This explains each columns in the dataset as follows:
 * Distributor 
-* Customer Name
-* City
-* Country
+* Customer Name: Names of pharmaceutical limited that bought from the company.
+* City: The city where the pharmaceutical limited are located.
+* Country: The countrywhere the pharnaceutical limied are located.
 * Latitude
 * Longitude 
-* Channel (Pharmacy, Hospital)
-* Sub-channel (Retail, Private, Government, Institution) 
-* Product Name
-* Product Class 
-* Quantity
-* Price
-* Sales 
-* Transaction Date (Day, Month, Year) 
-* Name of Sales Representative, Manager, and Sales Team
+* Channel (Pharmacy, Hospital): The medium in which medications are sold.
+* Sub-channel (Retail, Private, Government, Institution): The channels which medications are sold.
+* Product Name: The names of the products sold.
+* Product Class: The class of the products. 
+* Quantity: The quantity sold.
+* Price: The price of the products.
+* Sales: The amount/price the products are sold.
+* Transaction Date (Day, Month, Year): The date the transaction took place.
+* Name of Sales Representative, Manager, and Sales Team: The sales representative and team that made the transaction.
 
 # TOOLS
 The tools used for this analysis are Microsoft excel and Powerbi
@@ -51,7 +51,13 @@ The tools used for this analysis are Microsoft excel and Powerbi
 * Based on the insights, provide actionable recommendations for improving sales strategy, optimizing inventory, and enhancing customer satisfaction.
 
 # DATA PROCESSING
-
+* The data was checked fornmissing and inconsistent values.
+* Customers names were corrected, especually repeated names.
+* Duplicated customer names were found and replaced.
+* Day, month and year were combined together in one column as "Date".
+* Months were extracted from the date column.
+* Yearly quarter column was created (year (date) & "Q" & roundup(month(Date)/3,0), using excel.
+  
 # DATA ANALYSIS
 ### Top-performing products and product classes by sales and quantity sold are as follows:
  - Analgesics led product sales with €2,435,013,957 and a quantity of 5,711,311 units.
@@ -101,6 +107,7 @@ Abigail Thompson closely followed with €999,600,266 in sales, demonstrating th
 - Alfa Team: Alfa Team recorded the lowest sales at €2,662,909,343, which, while still a substantial amount, indicates room for improvement compared to Delta. The gap between Alfa and Delta suggests that Alfa may need to refine its sales strategies, improve internal coordination, or better align with customer needs to increase their performance.
 
 # DASHBOARD
+![pharm1](https://github.com/user-attachments/assets/c37adbda-0925-484c-85c1-a7baf2b04e8e)
 
 # MAP CHART USING POWERBI
 
